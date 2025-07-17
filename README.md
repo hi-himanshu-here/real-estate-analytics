@@ -46,7 +46,7 @@ To run this project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/real-estate-analytics.git
+git clone https://github.com/hi-himanshu-here/real-estate-analytics.git
 cd real-estate-analytics
 
 # 2. Install dependencies
